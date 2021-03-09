@@ -1,10 +1,10 @@
 {
-    "name": "pccomponentes/ddd-testing",
+    "name": "dosfarma/ddd-testing",
     "description": "Added test utils to ddd mini framework",
     "authors": [
         {
             "name": "Sergio Hernández Martínez",
-            "email": "sergio.hernandez@pccomponentes.com"
+            "email": "sergio.hernandez@dosfarma.com"
         }
     ],
     "license": "MIT",
